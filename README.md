@@ -1,7 +1,7 @@
 # mpv-roughcut
 My personal configuration of mpv plugins from [User-Scripts](https://github.com/mpv-player/mpv/wiki/User-Scripts) to expedite rough cutting of media.
 
-*scipts/encode.lua* has been modified so that the ffmpeg call accomodates for just cutting audio.
+*scripts/encode.lua* has been modified so that the ffmpeg call accomodates for just cutting audio.
 
 ## Bindings
 | Keybind | Description |
