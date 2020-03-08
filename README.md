@@ -17,5 +17,5 @@ My personal configuration of mpv plugins from [User-Scripts](https://github.com/
 
 \* Hit *enter* for the end point and to start encoding for all *encode.lua* bindings.
 
-*encode_va* roughcut with audio and video.
+*encode_va* roughcut with audio and video.  
 *encode_a* roughcut with only audio.
