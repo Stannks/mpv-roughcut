@@ -1,5 +1,5 @@
 /watch_later/*
-/gallery-thumbs-dir/
+/gallery-thumbs-dir/*
 
 !/watch_later/.gitkeep
 !/gallery-thumbs-dir/.gitkeep
